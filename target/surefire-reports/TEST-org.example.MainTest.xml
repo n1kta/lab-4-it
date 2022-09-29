@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="2" failures="0" name="org.example.MainTest" time="0.003" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="9.0.4+11"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-9.0.4\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\nikit\IdeaProjects\Lab2"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\nikit\IdeaProjects\Lab2"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.runtime.version" value="9.0.4+11"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\nikit\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="C:\Program Files\apache-maven-3.8.6\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-9.0.4\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Microsoft MPI\Bin\;C:\Program Files (x86)\Borland\Delphi7\Bin;C:\Program Files (x86)\Borland\Delphi7\Projects\Bpl\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Microsoft\jdk-11.0.12.7-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Windows\Microsoft.NET\Framework64\v4.0.30319;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files\Java\jdk-9.0.4\bin;C:\Program Files\apache-maven-3.8.6\bin;C:\Users\nikit\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\nikit\AppData\Local\Programs\Python\Python37\;C:\Users\nikit\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\nikit\AppData\Local\Programs\Python\Python310\;C:\Users\nikit\AppData\Local\Microsoft\WindowsApps;C:\Users\nikit\.dotnet\tools;C:\Users\nikit\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\JetBrains Rider 2021.3.2\bin;;C:\Users\nikit\AppData\Roaming\npm;C:\Program Files\JetBrains\PyCharm 2021.3.1\bin;;C:\Program Files (x86)\Sophos\Sophos SSL VPN Client\bin;C:\Program Files\Azure Data Studio\bin;C:\Windows\Microsoft.NET\Framework64\v4.0.30319;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools;C:\Users\nikit\AppData\Local\JetBrains\IntelliJ IDEA 2021.3.3\bin;;C:\Program Files\Microsoft MPI\Bin;C:\Program Files\apache-maven-3.8.6\bin;;."/>
+    <property name="maven.conf" value="C:\Program Files\apache-maven-3.8.6/conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="53.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="library.jansi.path" value="C:\Program Files\apache-maven-3.8.6\lib\jansi-native"/>
+    <property name="user.home" value="C:\Users\nikit"/>
+    <property name="user.timezone" value="Europe/Helsinki"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.specification.version" value="9"/>
+    <property name="user.name" value="nikit"/>
+    <property name="java.class.path" value="C:\Program Files\apache-maven-3.8.6\boot\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="9"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher install"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-9.0.4"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="9.0.4"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="sun.stderr.encoding" value="cp437"/>
+    <property name="maven.home" value="C:\Program Files\apache-maven-3.8.6"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.stdout.encoding" value="cp437"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="org.example.MainTest" name="Should_Return_True_For_Correct_Triangle" time="0.003"/>
+  <testcase classname="org.example.MainTest" name="Should_Return_True_When_Object_Exist" time="0"/>
+</testsuite>
